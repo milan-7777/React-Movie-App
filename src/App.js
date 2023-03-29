@@ -51,7 +51,12 @@ const App = () => {
                     <h2>No movies found.</h2>
                 </div>
             )}
+
+            <div className="footer">
+                <p>Milan Stanic 2023</p>
+            </div>
         </div>
+        
     );
 }
 
